@@ -1,6 +1,6 @@
 // TODO: answer here
 import { useState, useEffect } from "react";
-import { Center, SimpleGrid, Select } from "@chakra-ui/react"
+import { SimpleGrid, Select } from "@chakra-ui/react"
 import Card from "./Cards";
 
 function Home() {
